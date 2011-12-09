@@ -1,0 +1,12 @@
+Content\Arrow.xnb
+Content\Background.xnb
+Content\Ball.xnb
+Content\Dot.xnb
+Content\MyFont.xnb
+Content\Audio\Waves\FailEmotions.xnb
+Content\Background2.xnb
+Content\BigFont.xnb
+Content\quitPose.xnb
+Content\pausePose.xnb
+Content\SushilFace.xnb
+Content\Audio\Waves\macarena.xnb
